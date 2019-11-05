@@ -1,4 +1,4 @@
-## Workshop git 2K19
+## Workshop git 2019
 
 
 ## Exercice sur ce repo
